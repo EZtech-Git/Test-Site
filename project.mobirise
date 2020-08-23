@@ -26,7 +26,10 @@
         "isRoundedButtons": true,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
-      }
+      },
+      "additionalSetColors": [
+        "#44a701"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.12.4",
@@ -37,11 +40,27 @@
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "uniqCompNum": 2,
+    "uniqCompNum": 4,
     "versionPublish": "4.12.4",
-    "publishType": "github",
-    "gitHubName": "EZtech-Git",
-    "gitHubPath": "Test-Site"
+    "imageResize": true,
+    "favicon": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": {
+      "customDialogSelector": true,
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "#44a701",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "54",
+      "opacityOverlay": "80",
+      "text": "Website xem tốt nhất trên giao diện máy tính và phom ngang điện thoại",
+      "textButton": "Đồng Ý"
+    },
+    "gdpr": false
   },
   "pages": {
     "index.html": {
